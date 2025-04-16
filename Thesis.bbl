@@ -1,8 +1,52 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{7}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Wurman et~al.(2008)Wurman, D’Andrea, and Mountz]{warehouse1_2008}
+Peter~R. Wurman, Raffaello D’Andrea, and Mick Mountz.
+\newblock Coordinating hundreds of cooperative, autonomous vehicles in warehouses.
+\newblock \emph{AI Magazine}, 29\penalty0 (1):\penalty0 9, Mar. 2008.
+\newblock \doi{10.1609/aimag.v29i1.2082}.
+\newblock URL \url{https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2082}.
+
+\bibitem[Kou et~al.(2020)Kou, Peng, Ma, Kumar, and Koenig]{warehouse2_2020}
+Ngai~Meng Kou, Cheng Peng, Hang Ma, T.~K.~Satish Kumar, and Sven Koenig.
+\newblock Idle time optimization for target assignment and path finding in sortation centers.
+\newblock \emph{Proceedings of the AAAI Conference on Artificial Intelligence}, 34\penalty0 (06):\penalty0 9925--9932, Apr. 2020.
+\newblock \doi{10.1609/aaai.v34i06.6547}.
+\newblock URL \url{https://ojs.aaai.org/index.php/AAAI/article/view/6547}.
+
+\bibitem[Ma et~al.(2017)Ma, Li, Kumar, and Koenig]{warehouse3_2017}
+Hang Ma, Jiaoyang Li, T.K.~Satish Kumar, and Sven Koenig.
+\newblock Lifelong multi-agent path finding for online pickup and delivery tasks.
+\newblock In \emph{Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems}, AAMAS '17, page 837–845, Richland, SC, 2017. International Foundation for Autonomous Agents and Multiagent Systems.
+
+\bibitem[Hönig et~al.(2016)Hönig, Satish~Kumar, Ma, Koenig, and Ayanian]{robot_2016}
+Wolfgang Hönig, T.K. Satish~Kumar, Hang Ma, Sven Koenig, and Nora Ayanian.
+\newblock Formation change for robot groups in occluded environments.
+\newblock In \emph{2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pages 4836--4842, 2016.
+\newblock \doi{10.1109/IROS.2016.7759710}.
+
+\bibitem[Wang et~al.(2022)Wang, Xu, and Gao]{drone_2022}
+Zhepei Wang, Chao Xu, and Fei Gao.
+\newblock Robust trajectory planning for spatial-temporal multi-drone coordination in large scenes.
+\newblock In \emph{2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, pages 12182--12188, 2022.
+\newblock \doi{10.1109/IROS47612.2022.9982032}.
+
+\bibitem[Rahmani and Pelechano(2022)]{vidGame_2022}
+Vahid Rahmani and Nuria Pelechano.
+\newblock Towards a human-like approach to path finding.
+\newblock \emph{Computers & Graphics}, 102:\penalty0 164--174, 2022.
+\newblock ISSN 0097-8493.
+\newblock \doi{https://doi.org/10.1016/j.cag.2021.08.020}.
+\newblock URL \url{https://www.sciencedirect.com/science/article/pii/S0097849321001849}.
+
+\bibitem[Liu and Liu(2021)]{motion_planning_2021}
+Shuai Liu and Pengcheng Liu.
+\newblock A review of motion planning algorithms for robotic arm systems.
+\newblock In \emph{RiTA 2020: Proceedings of the 8th International Conference on Robot Intelligence Technology and Applications}, pages 56--66. Springer, 2021.
 
 \end{thebibliography}
